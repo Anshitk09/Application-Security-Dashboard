@@ -1,6 +1,6 @@
 This project is a conceptual web-based dashboard designed to visualize and monitor application security threats. It simulates the detection and display of security-related events, such as potential SQL injection and Cross-Site Scripting (XSS) attacks, against web applications.
 
-Key Features (as implemented in the code):
+Key Features:
 
 Threat Visualization: The dashboard displays key metrics like total active threats, high-severity threats, attacked applications, and vulnerability exploits.
 Interactive Charts: It includes a timeline chart to show attack patterns over time and a pie chart to illustrate the distribution of different attack types.
